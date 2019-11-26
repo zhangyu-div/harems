@@ -1,0 +1,30 @@
+@charset "utf-8";
+body,ul,p,h1, h2, h3,h4,li,input,textarea,button,form{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 64vw;
+}
+body{
+    font-family: 'PingFangSC-Light',Arial,Helvetica,sans-serif,"Hiragino Sans GB";
+    font-size: .1rem;
+}
+body,html,#app{
+    height: 100%;
+}
+h1,h2,h3,h4,i,b{
+    font-weight: normal;
+}
+img{
+    vertical-align: top;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+input{
+    border: none;outline: none;
+}
